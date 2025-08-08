@@ -9,8 +9,8 @@
 
 ## Ramas secundarias
 
-- `feature/<nombre>`: Ramas para tareas especificaso features.
-- `hotfix/<nombre>`: Ramas arreglos o pequeños cambios.
+- `feature/<nombre>`: Ramas para tareas especificas o features.
+- `hotfix/<nombre>`: Ramas para arreglos o pequeños cambios.
 
 
 ## Ciclo de trabajo
